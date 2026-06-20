@@ -1,21 +1,128 @@
-# 💫 About Me:
-👋 Hey there, I'm Sudarshana @DWS21, fueled by a passion for crafting engaging experiences in the digital world!<br><br>🎮 Gaming and esports enthusiast, I thrive in the competitive realm, both on and off the screen.<br><br>🚀 Committed to pushing the boundaries of technology, I'm always looking for the latest advancements to infuse into my creations.<br><br>💡 With a solid foundation in OOP concepts, Python, Java, ReactJS, and the MERN stack, I specialize in building dynamic and intuitive applications that captivate users.<br><br>💻 Currently improving my skills in advanced React concepts and diving deeper into backend development with Springboot and MongoDB, aiming to create seamless and robust solutions.<br><br>🌱 Excitedly exploring the intersection of technology and gaming.<br><br>🎓 As a second undergraduate at IIT, I'm eager to collaborate on innovative projects and absorb knowledge rapidly.<br><br>📚 Beyond coding, I find joy in discovering emerging technologies and dominating in esports arenas.<br><br>⚡️ Open to new opportunities and connections, I'm enthusiastic about joining forces to create something extraordinary! Let's level up together!
+<h1 align="center">Hi, I'm Sudarshana 👋</h1>
+<h3 align="center">Full-Stack & ML Engineer | 2+ Years Industry Experience | Java · Python · React/Next.js · AWS</h3>
 
-
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudarshana-weerakkodi) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dws-21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dws-21&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dws-21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dws-21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dws-21&style=flat-square&color=blueviolet" alt="profile views" />
+  <a href="https://linkedin.com/in/sudarshana-weerakkodi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dws-21&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧭 About Me
+
+- 💼 Software Engineer with **2+ years of industry experience** building full-stack and AI-powered systems
+- 🛠️ Core stack: **Spring Boot (Java)**, **Python**, **React**, **Next.js**, **MongoDB**, **PostgreSQL**
+- 🤖 Working hands-on with **LLMs, RAG pipelines, and ML models** in production
+- ☁️ Comfortable across the **DevOps lifecycle on AWS** — deployment, infra, and CI/CD
+- 🎓 Studying at IIT alongside full-time work, originally trained on the MERN stack before moving deeper into backend, cloud, and AI engineering
+- 🎮 Esports and competitive gaming on the side — the same mindset (strategy, fast iteration, staying sharp under pressure) carries over into engineering
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/sudarshana-weerakkodi)
+
+---
+
+### 🚀 Projects
+
+> 🔧 Public repos coming soon — actively building. Check back here or follow me on GitHub for updates.
+
+<!--
+Once you have repos ready, replace this section with something like:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🔹 Project Name</h4>
+      <p>One-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" />
+      <br/>
+      <a href="LINK_TO_REPO">Repo</a> · <a href="LINK_TO_DEMO">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h4>🔹 Project Name</h4>
+      <p>One-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb" />
+      <br/>
+      <a href="LINK_TO_REPO">Repo</a> · <a href="LINK_TO_DEMO">Live Demo</a>
+    </td>
+  </tr>
+</table>
+-->
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dws-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dws-21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dws-21&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dws-21&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center"><i>⭐️ Open to full-stack & AI engineering roles, and interesting collaborative builds — let's connect on LinkedIn.</i></p>
